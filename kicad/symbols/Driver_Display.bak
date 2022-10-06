@@ -858,7 +858,7 @@
     )
   )
   (symbol "TFT-3.2-ILI9341" (in_bom yes) (on_board yes)
-    (property "Reference" "U" (id 0) (at 16.51 -1.27 0)
+    (property "Reference" "U" (id 0) (at 17.78 -2.54 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "TFT-3.2-ILI9341" (id 1) (at 12.7 27.94 90)
